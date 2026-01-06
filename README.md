@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi, I'm Artem!
 
-<!--
-**Art8461/Art8461** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I develop iOS applications using Swift.
+I’m passionate about creating convenient and functional mobile solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+- Swift, UIKit, SwiftUI  
+- REST API, WebSocket  
+- GCD, Async/Await  
+- OAuth 2.0  
+- MVC, MVP, MVVM  
+- CoreData, Realm  
+- CocoaPods, Swift Package Manager (SPM)  
+- Unit Tests, UI Tests, Snapshot Tests  
+- Git, GitHub  
+
+---
+
+## Contacts
+
+- 📫 Email: [art8461@gmail.com](mailto:art8461@gmail.com)  
+- 📱 Telegram: [@ArtemKyz9](https://t.me/ArtemKyz9)  
+- 💼 LinkedIn: [ArtemKuzmenko](https://www.linkedin.com/in/artem-kuzmenko-95385a387)
+
+If you have any questions or suggestions, please feel free to contact me.
